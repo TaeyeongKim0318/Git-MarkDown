@@ -11,4 +11,4 @@
 다른 사람과 협업이 가능하다.
 
 ## Git 실습 준비
-[Git for Windows](https://gitforwindows.org/)
+[Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
