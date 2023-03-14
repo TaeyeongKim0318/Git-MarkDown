@@ -15,13 +15,12 @@
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
 ## Git 명령어 정리
-* git init  
+### git init  
 관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
 ```bash
 git init
 ```  
-  
-* git status  
+### git status  
 폴더 내 파일들의 상태를 알려준다.
 ```bash
 git status
