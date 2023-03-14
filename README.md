@@ -9,3 +9,6 @@
 이전 상태로 돌아갈 수 있다.
 3. Collaboration  
 다른 사람과 협업이 가능하다.
+
+## Git 실습 준비
+[Git for Windows](https://gitforwindows.org/)
