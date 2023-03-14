@@ -19,7 +19,16 @@
 관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
 ```bash
 git init
-```  
+```
+
+### git config
+버전을 관리하고 있는 유저명과 이메일을 설정한다.
+```bash
+git config --global user.name <유저명>
+```bash
+git config --global user.email <이메일>
+```
+
 ### git status  
 폴더 내 파일들의 상태를 알려준다.
 ```bash
