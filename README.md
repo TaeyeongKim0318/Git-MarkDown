@@ -25,6 +25,7 @@ git init
 버전을 관리하고 있는 유저명과 이메일을 설정한다.
 ```bash
 git config --global user.name <유저명>
+```
 ```bash
 git config --global user.email <이메일>
 ```
