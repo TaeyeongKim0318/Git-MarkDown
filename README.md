@@ -15,12 +15,20 @@
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
 ## Git 명령어 정리
+- 관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
 ```bash
 git init
-```
-관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
-
+```  
+  
+- 폴더 내 파일들의 상태를 알려준다.
 ```bash
-git add
+git status
+```
+<img src=https://git-scm.com/book/en/v2/images/lifecycle.png>  
+  
+  
+- 테스트 
+```bash
+git add <파일 명>
 ```
 
