@@ -1,8 +1,9 @@
 
-## Git 이란
+## Git 개요
+### Git 이란
 소스코드를 효과적으로 관리할 수 있게 해주는 무료 소프트웨어로 **버전 관리 시스템**의 일종이다.
 
-## Git의 기능
+### Git의 기능
 - Backup  
   만약의 사태에 대비할 수 있다.
 - Recovery  
@@ -10,7 +11,7 @@
 - Collaboration  
   다른 사람과 협업이 가능하다.
 
-## Git 실습 자료
+### Git 실습 자료
 생활 코딩의 [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)을 통해 
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
@@ -48,7 +49,7 @@ git status
 git add <파일명>
 ```
 
-## git commit
+### git commit
 스테이징 영역에 있는 파일을 저장한다.
 ```bash
 git commit
@@ -58,7 +59,7 @@ git commit
 git commit -m "<저장할 메세지>"
 ```
 
-## git log
+### git log
 git의 로그를 출력한다. 커밋 ID를 확인할 수 있다.
 ```bash
 git log
@@ -68,7 +69,7 @@ git log
 git log -p
 ```
 
-## git diff
+### git diff
 마지막 커밋과 현재 수정한 코드를 비교해준다.
 ```bash
 git diff
@@ -78,4 +79,4 @@ git diff
 git diff <커밋ID 1>..<커밋ID 2>
 ```
 
-## git reset
+### git reset
