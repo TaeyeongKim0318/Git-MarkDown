@@ -12,7 +12,7 @@
   다른 사람과 협업이 가능하다.
 
 ### Git 실습 자료
-생활 코딩의 [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)을 통해 
+생활 코딩의 [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)을 통해 학습  
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
 ## Git 명령어 정리
