@@ -94,7 +94,7 @@ git revert <버전 id>
 ## Git 명령어 사용 빈도
 |command|google results|%|
 |:---|---:|---:|
-|commit|528,000|7.981980075|
+|<span style='background-color:#fff5b1'>commit</span>|528,000|7.981980075|
 |push|523,000	|7.906393143|
 |pull|506,000|7.649397572|
 |clone|489,000|7.392402002|
