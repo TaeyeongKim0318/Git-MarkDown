@@ -15,7 +15,7 @@
 생활 코딩의 [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)을 통해 학습  
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
-## Git 명령어 정리
+# Git 기본 
 ### git init  
 관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
 ```bash
