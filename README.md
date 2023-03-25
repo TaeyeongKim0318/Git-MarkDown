@@ -117,10 +117,9 @@ git revert <버전 id>
 |grep|49,400|0.7467988934|
 |mv|44,700|0.6757471768|
 
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
++ C +
+- O -
+! L !
+@@ O @@
+# R #
+S
