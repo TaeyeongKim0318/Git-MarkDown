@@ -80,3 +80,14 @@ git diff <커밋ID 1>..<커밋ID 2>
 ```
 
 ### git reset
+버전 id로 돌아간다.
+```bash
+git reset --hard <버전 id">
+```
+cf) 원격 저장소가 아닌 본인 PC 버전에 대해서만 reset을 진행해야한다.
+
+### git revrt
+버전 id의 커밋을 취소한 내용을 새로운 버전으로 만드는 명령
+```bash
+git revert <버전 id>
+```
