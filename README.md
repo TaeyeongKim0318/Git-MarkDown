@@ -87,14 +87,14 @@ git reset --hard <버전 id">
 cf) 원격 저장소가 아닌 본인 PC 버전에 대해서만 reset을 진행해야한다.
 
 ### git revrt
-버전 id의 커밋을 취소한 내용을 새로운 버전으로 만드는 명령
+<span style='background-color:#fff5b1'>버전 id의 커밋을 취소한 내용을 새로운 버전으로 만드는 명령</span>
 ```bash
 git revert <버전 id>
 ```
 ## Git 명령어 사용 빈도
 |command|google results|%|
 |:---|---:|---:|
-|<span style='background-color:#fff5b1'>commit</span>|528,000|7.981980075|
+|commit|528,000|7.981980075|
 |push|523,000	|7.906393143|
 |pull|506,000|7.649397572|
 |clone|489,000|7.392402002|
