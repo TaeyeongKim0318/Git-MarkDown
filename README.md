@@ -116,4 +116,4 @@ git revert <버전 id>
 |bisect|62,800|0.9493718726|
 |grep|49,400|0.7467988934|
 |mv|44,700|0.6757471768|
-<span style="color:yellow">commit</span>
+~~***<u>텍스트</u>***~~
