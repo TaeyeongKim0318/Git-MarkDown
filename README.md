@@ -88,13 +88,7 @@ cf) 원격 저장소가 아닌 본인 PC 버전에 대해서만 reset을 진행�
 
 ### git revrt
 버전 id의 커밋을 취소한 내용을 새로운 버전으로 만드는 명령
-<span style="color:red">
 
-빨강 글씨
-
-Red Font
-
-</span>
 ```bash
 git revert <버전 id>
 ```
