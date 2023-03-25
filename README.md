@@ -117,4 +117,8 @@ git revert <버전 id>
 |grep|49,400|0.7467988934|
 |mv|44,700|0.6757471768|
 
-<style>H1{color:Blue;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
