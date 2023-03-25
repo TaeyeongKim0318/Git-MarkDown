@@ -5,7 +5,7 @@
 
 #### Git의 기능
 - Backup  
-  만약의 사태에 대비할 수 있다.
+  <span style="background-color:#fff5b1">만약의 사태에 대비할 수 있다.</span>
 - Recovery  
   이전 상태로 돌아갈 수 있다.
 - Collaboration  
