@@ -15,7 +15,7 @@
 생활 코딩의 [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)을 통해 학습  
 [Git for Windows](https://gitforwindows.org/)를 다운로드 후 설치
 
-## Git 기본 
+## Git 기본 명령어
 ### git init  
 관리할 폴더를 지정한다. 지정 시 '.git'이라는 폴더 생성되는데 삭제하면 안된다.  
 ```bash
@@ -93,6 +93,9 @@ cf) 원격 저장소가 아닌 본인 PC 버전에 대해서만 reset을 진행�
 git revert <버전 id>
 ```
 ## Git 명령어 사용 빈도
+***기울어지고 강조된 글씨***는 위에서 소개한 기본 명령어이다.  
+google results는 구글 검색량을 의미하며 기본 명령어만 40%인 것을 알 수 있다.  
+기본 명령어부터 익히는 것을 목표로 하자.  
 |command|google results|%|
 |:---|---:|---:|
 |***commit***|***528,000***|***7.981980075***|
