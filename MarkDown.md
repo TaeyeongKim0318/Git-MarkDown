@@ -155,39 +155,7 @@
 
 ## 블록(block) 코드 강조
 `를 3번 이상 입력하고 코드 종류도 적습니다.
-```
-```html
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
-```
 
-```css
-.list > li {
-  position: absolute;
-  top: 40px;
-}
-```
-
-```javascript
-function func() {
-  var a = 'AAA';
-  return a;
-}
-```
-
-```bash
-$ vim ./~zshrc
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a tag.
-```
-```
 ```html
 <a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
 ```
@@ -220,3 +188,36 @@ No language indicated, so no syntax highlighting.
 But let's throw in a tag.
 ```
 
+## 표(Table)
+<table> 태그로 변환됩니다.
+헤더 셀을 구분할 때 3개 이상의 `-`(hyphen/dash) 기호가 필요합니다.
+헤더 셀을 구분하면서 `:`(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다.
+가장 좌측과 가장 우측에 있는 `|`(vertical bar) 기호는 생략 가능합니다.
+```
+  | 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 |  |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
+| `fixed` | 브라우저 창을 기준으로 배치 |  |
+
+값 | 의미 | 기본값
+---|:---:|---:
+`static` | 유형(기준) 없음 / 배치 불가능 | `static`
+`relative` | 요소 **자신**을 기준으로 배치 |
+`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
+`fixed` | **브라우저 창**을 기준으로 배치 |
+```
+  | 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 |  |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
+| `fixed` | 브라우저 창을 기준으로 배치 |  |
+
+값 | 의미 | 기본값
+---|:---:|---:
+`static` | 유형(기준) 없음 / 배치 불가능 | `static`
+`relative` | 요소 **자신**을 기준으로 배치 |
+`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
+`fixed` | **브라우저 창**을 기준으로 배치 |
