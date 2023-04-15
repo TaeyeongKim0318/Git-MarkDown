@@ -136,7 +136,7 @@ Click [here](http://goddaehee.tistory.com/)
 ### 2) 참조 링크 사용 방법
 `[<Link Keyword>][<id>]`<br>
 `[<id>]: <URL> <Optional Title> `
-### (1) title 옵션 없이 사용
+#### (1) title 옵션 없이 사용
 ```
 [갓대희의 작은 공간][gdh]
 [gdh]: https://goddaehee.tistory.com
@@ -144,7 +144,7 @@ Click [here](http://goddaehee.tistory.com/)
 ![7-1-1. 참조 링크 사용 방법](Img/7.%20%EB%A7%81%ED%81%AC(%EC%B0%B8%EC%A1%B0%EB%A7%81%ED%81%AC1).png)
 <br>
 
-### (2) title 옵션 사용시 커서를 링크 위로 위치하면, title이 노출 된다.
+#### (2) title 옵션 사용시 커서를 링크 위로 위치하면, title이 노출 된다.
 ```
 [갓대희의 작은 공간][gdh]
 [gdh]: https://goddaehee.tistory.com "Click here"
@@ -218,17 +218,17 @@ goddaehee@kakao.com
 
 ### 2) 블럭 코드 (Block Code)
 - html, css, javascript, bash, plaintext 등등
-### (1) 코드의 종류를 명시 하지 않은 경우
+#### (1) 코드의 종류를 명시 하지 않은 경우
 ![2-1) 코드의 종류를 명시 하지 않은 경우](Img/10.%20%EC%BD%94%EB%93%9C2.png )
-### (2) HTML
+#### (2) HTML
 ![2-2) HTML](Img/10.%20%EC%BD%94%EB%93%9C3.png)
-### (3) CSS
+#### (3) CSS
 ![2-3) CSS](Img/10.%20%EC%BD%94%EB%93%9C4.png )
-### (4) JavaScript
+#### (4) JavaScript
 ![2-4) JavaScript](Img/10.%20%EC%BD%94%EB%93%9C5.png )
-### (5) Bash
+#### (5) Bash
 ![2-5) Bash](Img/10.%20%EC%BD%94%EB%93%9C6.png)
-### (6) 이 외 텍스트
+#### (6) 이 외 텍스트
 ![2-6) 이 외 텍스트](Img/10.%20%EC%BD%94%EB%93%9C7.png )
 <br>
 <br>
