@@ -265,3 +265,39 @@ BREAK!
 <img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">
 
 ![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
+  
+## 수평선(Horizontal Rule)
+각 기호를 3개 이상 입력하세요.
+```
+---
+(Hyphens)
+
+***
+(Asterisks)
+
+___
+(Underscores)
+```
+---
+(Hyphens)
+
+***
+(Asterisks)
+
+___
+(Underscores)
+
+## 줄바꿈(Line Breaks)
+```
+동해물과 백두산이 마르고 닳도록 
+하느님이 보우하사 우리나라 만세   <!--띄어쓰기 2번-->
+무궁화 삼천리 화려 강산<br>
+대한 사람 대한으로 길이 보전하세
+```
+동해물과 백두산이 마르고 닳도록 
+하느님이 보우하사 우리나라 만세   <!--띄어쓰기 2번-->
+무궁화 삼천리 화려 강산<br>
+대한 사람 대한으로 길이 보전하세
+```
+일반 줄비꿈이 동작하지 않는 환경(설정 및 버전에 따라)의 경우, ‘2번의 띄어쓰기’나 <br>를 활용할 수 있습니다.
+```
