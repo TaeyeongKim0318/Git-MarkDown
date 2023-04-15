@@ -118,3 +118,20 @@
 [Dribbble link]: https://dribbble.com
 [1]: https://github.com
 [참조 링크]: https://naver.com "네이버로 이동합니다!"
+
+
+## 이미지(Images)
+`<img>`로 변환됩니다.
+링크과 비슷하지만 앞에 `!`가 붙습니다.
+```
+![대체 텍스트(alternative text)를 입력하세요!](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title)을 작성하세요.")
+
+![Kayak][logo]
+
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+```
+![대체 텍스트(alternative text)를 입력하세요!](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title)을 작성하세요.")
+
+![Kayak][logo]
+
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
