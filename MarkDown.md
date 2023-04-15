@@ -154,7 +154,7 @@
 `background`혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 
 ## 블록(block) 코드 강조
-```를 3번 이상 입력하고 코드 종류도 적습니다.
+`를 3번 이상 입력하고 코드 종류도 적습니다.
 ```
 ```html
 <a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
