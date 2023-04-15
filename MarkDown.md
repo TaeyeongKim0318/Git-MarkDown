@@ -135,3 +135,10 @@
 ![Kayak][logo]
 
 [logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+
+## 이미지에 링크
+마크다운 이미지 코드를 링크 코드로 묶어 줍니다.
+```
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+```
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
