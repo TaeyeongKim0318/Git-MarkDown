@@ -88,10 +88,19 @@ cf) 원격 저장소가 아닌 본인 PC 버전에 대해서만 reset을 진행�
 
 ### git revrt
 버전 id의 커밋을 취소한 내용을 새로운 버전으로 만드는 명령
-
 ```bash
 git revert <버전 id>
 ```
+
+### git push
+원격 저장소에 commit 내용 저장한다.
+```bash
+git push <remote> <branch>
+```
+`git push origin main`을 많이 사용한다.
+
+
+
 ## Git 명령어 사용 빈도
 ***기울어지고 강조된 글씨***는 위에서 소개한 기본 명령어이다.  
 google results는 구글 검색량을 의미하며 기본 명령어만 40%인 것을 알 수 있다.  
