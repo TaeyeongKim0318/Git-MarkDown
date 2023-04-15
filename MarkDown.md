@@ -122,6 +122,7 @@
 
 ## 이미지(Images)
 `<img>`로 변환됩니다.
+
 링크과 비슷하지만 앞에 `!`가 붙습니다.
 ```
 ![대체 텍스트(alternative text)를 입력하세요!](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title)을 작성하세요.")
@@ -190,9 +191,13 @@ But let's throw in a tag.
 
 ## 표(Table)
 <table> 태그로 변환됩니다.
+  
 헤더 셀을 구분할 때 3개 이상의 `-`(hyphen/dash) 기호가 필요합니다.
+  
 헤더 셀을 구분하면서 `:`(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다.
+  
 가장 좌측과 가장 우측에 있는 `|`(vertical bar) 기호는 생략 가능합니다.
+
 
 ```
   | 값 | 의미 | 기본값 |
