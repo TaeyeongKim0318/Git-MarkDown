@@ -139,7 +139,6 @@
 ## 이미지에 링크
 마크다운 이미지 코드를 링크 코드로 묶어 줍니다.
 ```
-[![Vue]: https://heropy.blog/images/vue.png](https://kr.vuejs.org/)
+[![Vue](/images/vue.png)](https://heropy.blog/images/vue.png)(https://kr.vuejs.org/)
 ```
-[![Vue]: https://heropy.blog/images/vue.png](https://kr.vuejs.org/)
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+[![Vue](/images/vue.png)](https://heropy.blog/images/vue.png)(https://kr.vuejs.org/)
