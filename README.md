@@ -1,2 +1,2 @@
 # Git-MarkDown
-(git)[/Git.md]
+!(git)[Git.md]
