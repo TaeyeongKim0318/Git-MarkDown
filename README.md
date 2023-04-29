@@ -1,2 +1,2 @@
 # Git-MarkDown
-!(git)[Git.md]
+![git 문서 보기](#Git.md)
