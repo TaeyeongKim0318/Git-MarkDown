@@ -99,6 +99,11 @@ git push <remote> <branch>
 ```
 `git push origin main`을 많이 사용한다.
 
+### git pull
+원격 저장소의 내용을 가져온다.
+```bash
+git pull
+```
 
 
 ## Git 명령어 사용 빈도
