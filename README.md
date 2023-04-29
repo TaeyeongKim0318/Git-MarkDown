@@ -11,4 +11,4 @@ git diff
 git reset
 git revrt
 git push
-## [Markdown 문서 보기](./Markdown.md)
+## [Markdown 문서 보기](./MarkDown.md)
