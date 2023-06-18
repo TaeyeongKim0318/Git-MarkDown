@@ -105,6 +105,13 @@ git push <remote> <branch>
 git pull
 ```
 
+### git clone
+원격 저장소의 내용을 복제한다.
+init 파일도 복제된다.
+```bash
+git clone <gitHub Repository>
+```
+
 
 ## Git 명령어 사용 빈도
 ***기울어지고 강조된 글씨***는 위에서 소개한 기본 명령어이다.  
