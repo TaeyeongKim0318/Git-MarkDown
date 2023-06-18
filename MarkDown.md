@@ -230,6 +230,17 @@ goddaehee@kakao.com
 ![2-5) Bash](Img/10.%20%EC%BD%94%EB%93%9C6.png)
 #### (6) 이 외 텍스트
 ![2-6) 이 외 텍스트](Img/10.%20%EC%BD%94%EB%93%9C7.png )
+#### (7) 정리
+| 언어 | Markdown | 언어 | Markdown |
+| :--: | :--: | :--: | :--: |
+| **Bash** | bash | **JSON** | json |
+| **C#** | cs | **Java** | java |
+| **C++** | cpp | **JavaScript** | javascript |
+| **CSS** | css | **PHP** | php |
+| **Diff** | diff | **Perl** | perl |
+| **HTML, XML** | html | **Python** | python |
+| **HTTP** | http | **Ruby** | ruby |
+| **Ini** | ini | **SQL** | sql |
 <br>
 <br>
 
