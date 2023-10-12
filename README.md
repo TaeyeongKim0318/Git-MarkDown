@@ -12,6 +12,7 @@ git과 MarkDown 사용방법을 정리한 문서입니다.
 - [git revert](./Git.md#git-revert)
 - [git push](./Git.md#git-push)
 - [git pull](Git.md#git-pull)
+- [git clone](Git.md#git-clone)
 ## [Markdown 문서 보기](./MarkDown.md)
 - [제목](MarkDown.md#1-제목-header-h1--h6)
 - [줄바꿈](MarkDown.md#2-줄바꿈-line-breaks-br)
