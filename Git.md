@@ -64,6 +64,11 @@ git의 로그를 출력한다. 커밋 ID를 확인할 수 있다.
 ```bash
 git log
 ```
+--branches 옵션을 이용하면 자신이 있는 branch 외에 다른 branch의 로그도 보여준다.
+--decorate 옵션을 이용하면 branch가 어떤 commit을 가르키고 있는지 보여준다.
+```bash
+git log --branches -- decorate
+```
 -p 옵션을 이용하면 소스코드가 어떻게 변했는지 비교하여 보여준다.
 ```bash
 git log -p
@@ -109,8 +114,28 @@ git pull
 원격 저장소의 내용을 복제한다.
 init 파일도 복제된다.
 ```bash
-git clone <gitHub Repository>
+git clone <깃허브 레파지토리 URL>
 ```
+
+
+## Git Branch 기초
+### git branch
+로컬 branch 정보를 보여준다.
+```bash
+git branch
+```
+뒤에 생성할 branch 명을 적어 branch를 생성할 수도 있다.
+```bash
+git branch <branch 명>
+```
+
+### git checkout
+입력한 branch로 전환한다.
+```bash
+git checkout <branch 명>
+```
+
+
 
 
 ## Git 명령어 사용 빈도
